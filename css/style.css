@@ -1,4 +1,17 @@
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:400,500,700,900");
+.header img {
+  float: left;
+  width: 300px;
+  height: 100px;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
+
 body {
   line-height: 1.4;
   font-family: "Roboto", sans-serif;
